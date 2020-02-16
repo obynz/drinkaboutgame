@@ -1,14 +1,9 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
-
-<<<<<<< HEAD
-<<<<<<< HEAD
 Welcome USER_NAME,
 =======
 Welcome obynz,
 >>>>>>> Initial commit
 =======
-Welcome USER_NAME,
->>>>>>> 756ec739b4c31671752813880459c4909fe8e1f2
+
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
 
